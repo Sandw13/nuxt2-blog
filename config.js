@@ -1,7 +1,7 @@
 export default {
-  title: 'yun yu yuan', // 网站标题
-  nickName: "云与原", // 昵称
-  githubName: 'yunyuyuan', // github账户名
+  title: 'xingchuang', // 网站标题
+  nickName: "星创", // 昵称
+  githubName: 'Sandw13', // github账户名
   githubRepo: 'nuxt2-blog', // 勿修改
   githubBranch: 'master', // 勿修改
   domain: 'https://blog.halberd.cn', // rss域名
